@@ -1,6 +1,7 @@
 📊 **Mini-Projeto 1: Análise de Campanhas de Marketing com Power BI**
 
 🎯 Objetivo
+
 Este Mini-Projeto apresenta uma introdução prática à análise de campanhas de Marketing utilizando o Power BI, desenvolvido como parte do curso *"Microsoft Power BI Para Business Intelligence e Data Science"* da plataforma *DSA (Data Science Academy)*.  
 
 Os dados utilizados foram disponibilizados pela DSA e representam informações fictícias sobre clientes e campanhas de Marketing realizadas por uma empresa.  
@@ -8,6 +9,7 @@ Os dados utilizados foram disponibilizados pela DSA e representam informações 
 O projeto simula um cenário de negócio real, permitindo a prática de análises, correção de dados, cálculo de métricas e extração de insights para apoiar decisões estratégicas na área de Marketing.
 
 📂 Descrição do Projeto
+
 Durante o desenvolvimento foram criados 4 dashboards, com 10 elementos visuais, aplicando:
 - Customizações e formatações  
 - Correções nos dados  
@@ -25,12 +27,14 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 - A efetividade das campanhas de Marketing  
 
 🔎 Estrutura das Análises
+
 1. Visão do Cliente  
 2. Visão do Comportamento de Compra do Cliente  
 3. Visão da Performance das Campanhas de Marketing  
 4. Visão dos Padrões de Compra no Ponto de Venda (País)  
 
 🛠 Recursos Utilizados
+
 - Power BI Desktop  
 - Power Query para transformação e limpeza dos dados  
 - Modelagem de dados com relacionamentos entre tabelas  
@@ -51,12 +55,15 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 ![Visão do Ponto de Venda](Imagens/Ponto%20de%20Venda.png)
 
 📌 Como visualizar
+
 1. Baixe o arquivo `.pbix` disponível neste repositório  
 2. Abra no **Power BI Desktop** para explorar os relatórios  
 3. Utilize os filtros e interações para navegar pelas diferentes visões
 
 💡 Insights Principais 
+
 - O público-alvo mais responsivo às campanhas é solteiro, sem filhos, com curso superior e maior renda.
 - Promoções são um fator decisivo para aumentar vendas.
 - O e-commerce já é relevante e merece maior investimento.
+
 
