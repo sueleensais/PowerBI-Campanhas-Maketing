@@ -1,7 +1,7 @@
-📊 Mini-Projeto 1: Análise de Campanhas de Marketing com Power BI
+📊 **Mini-Projeto 1: Análise de Campanhas de Marketing com Power BI**
 
 🎯 Objetivo
-Este Mini-Projeto apresenta uma introdução prática à análise de campanhas de Marketing utilizando o Power BI, desenvolvido como parte do curso **"Microsoft Power BI Para Business Intelligence e Data Science"** da plataforma **DSA (Data Science Academy)**.  
+Este Mini-Projeto apresenta uma introdução prática à análise de campanhas de Marketing utilizando o Power BI, desenvolvido como parte do curso *"Microsoft Power BI Para Business Intelligence e Data Science"* da plataforma *DSA (Data Science Academy)*.  
 
 Os dados utilizados foram disponibilizados pela DSA e representam informações fictícias sobre clientes e campanhas de Marketing realizadas por uma empresa.  
 
@@ -14,10 +14,10 @@ Durante o desenvolvimento foram criados 4 dashboards, com 10 elementos visuais, 
 - Diferentes recursos do Power BI estudados no capítulo  
 
 As análises foram divididas em quatro visões principais:
-- **Visão do Cliente**  
-- **Visão do Comportamento de Compra do Cliente**  
-- **Visão da Performance das Campanhas de Marketing**  
-- **Visão dos Padrões de Compra no Ponto de Venda (País)**  
+- Visão do Cliente
+- Visão do Comportamento de Compra do Cliente
+- Visão da Performance das Campanhas de Marketing
+- Visão dos Padrões de Compra no Ponto de Venda (País)
 
 Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, extrair métricas e cruzar dados, com o objetivo de entregar aos tomadores de decisão uma visão completa sobre:
 - O perfil dos clientes  
@@ -54,4 +54,9 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 1. Baixe o arquivo `.pbix` disponível neste repositório  
 2. Abra no **Power BI Desktop** para explorar os relatórios  
 3. Utilize os filtros e interações para navegar pelas diferentes visões
+
+💡 Insights Principais 
+- O público-alvo mais responsivo às campanhas é solteiro, sem filhos, com curso superior e maior renda.
+- Promoções são um fator decisivo para aumentar vendas.
+- O e-commerce já é relevante e merece maior investimento.
 
