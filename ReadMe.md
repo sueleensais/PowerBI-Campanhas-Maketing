@@ -57,7 +57,7 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 📌 Como visualizar
 
 1. Baixe o arquivo `.pbix` disponível neste repositório  
-2. Abra no **Power BI Desktop** para explorar os relatórios  
+2. Abra no *Power BI Desktop* para explorar os relatórios  
 3. Utilize os filtros e interações para navegar pelas diferentes visões
 
 💡 Insights Principais 
@@ -79,4 +79,5 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 - Clientes com renda maior responderam melhor às campanhas.
 
 4. Padrões de Compra por País
-- Nota-se uma queda de compras no ano 2021, por consequência da pandemia.
+- Nota-se uma queda de compras em todos os países, no ano 2021, por consequência da pandemia.
+
