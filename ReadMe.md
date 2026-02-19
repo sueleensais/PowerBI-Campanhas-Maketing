@@ -1,4 +1,4 @@
-# **Mini-Projeto 1: Análise de Campanhas de Marketing com Power BI**
+# **Mini-Projeto: Análise de Campanhas de Marketing com Power BI**
 
 # *Introdução*
 
@@ -77,5 +77,6 @@ Mesmo com dados fictícios, foi possível compreender como diferentes dimensões
 1. Baixe o arquivo `.pbix` disponível neste repositório  
 2. Abra no **Power BI Desktop** para explorar os relatórios  
 3. Utilize os filtros e interações para navegar pelas diferentes visões
+
 
 
