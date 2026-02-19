@@ -1,6 +1,6 @@
-📊 **Mini-Projeto 1: Análise de Campanhas de Marketing com Power BI**
+# **Mini-Projeto 1: Análise de Campanhas de Marketing com Power BI**
 
-📌 *Introdução*
+# *Introdução*
 
 Este projeto foi desenvolvido durante o capítulo 4 do curso "Microsoft Power BI para Business Intelligence e Data Science" da Data Science Academy.
 O objetivo é aplicar conceitos de análise de campanhas de Marketing utilizando Power BI.
@@ -9,7 +9,7 @@ Os dados utilizados são fictícios e fornecidos pela Data Science Academy.
   
 O projeto simula um cenário de negócio real, permitindo a prática de análises, correção de dados, cálculo de métricas e extração de insights para apoiar decisões estratégicas na área de marketing.
 
-🎯 *Objetivos*
+# *Objetivos*
 
 - Criar dashboards interativos para análise de campanhas de marketing.  
 - Explorar recursos do Power BI como:
@@ -18,14 +18,14 @@ O projeto simula um cenário de negócio real, permitindo a prática de análise
   -  Identificação de outliers
   -  Storytelling com dados  
   
-🛠️ *Tecnologias Utilizadas*
+# *Tecnologias Utilizadas*
 - Power BI Desktop 
 - Recursos de visualização e storytelling de dados 
 - Power Query para transformação e limpeza dos dados  
 - Modelagem de dados com relacionamentos entre tabelas  
 - Medidas DAX para cálculos personalizados  
 
-📂 *Estrutura do Dashboard*
+# *Estrutura do Dashboard*
 
 O projeto contém quatro principais relatórios:
 
@@ -39,7 +39,7 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 - Os padrões de compra  
 - A efetividade das campanhas de Marketing  
 
-🔎 *Principais Insights*
+ # *Principais Insights*
 
 1. Visão do Cliente
 - A maioria dos clientes tem curso superior.
@@ -60,21 +60,22 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 4. Padrões de Compra por País
 - Nota-se uma queda de compras no ano 2021, por consequência da pandemia.
 
-🚀 *Conclusão*
+# *Conclusão*
 
 Este mini-projeto foi uma introdução prática ao uso do Power BI para análises de marketing.  
 Mesmo com dados fictícios, foi possível compreender como diferentes dimensões (escolaridade, estado civil, salário anual e quantidade de filhos) influenciam a performance de campanhas de marketing.  
 
-📊 *Exemplos de Visualizações*
+# *Exemplos de Visualizações*
 
 ![Visão do Cliente](Imagens/Cliente.png)
 ![Visão do Comportamento](Imagens/Comportamento.png)
 ![Visão da Campanha](Imagens/Campanha.png)
 ![Visão do Ponto de Venda](Imagens/PontoDeVenda.png)
 
-📌 *Como visualizar*
+# *Como visualizar*
 
 1. Baixe o arquivo `.pbix` disponível neste repositório  
 2. Abra no **Power BI Desktop** para explorar os relatórios  
 3. Utilize os filtros e interações para navegar pelas diferentes visões
+
 
