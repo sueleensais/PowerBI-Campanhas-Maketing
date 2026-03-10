@@ -6,11 +6,11 @@ Este projeto consiste no desenvolvimento de uma solução de Business Intelligen
 A solução abrange todo o fluxo de dados, desde o processo de ETL (Extração, Transformação e Carga) até a aplicação de técnicas de Storytelling para suporte à decisão gerencial.
 
 ## Pipeline
-1. Coleta e Extração (Data Ingestion)
-2. Tratamento e Transformação (Data Cleaning & ETL)
-3. Modelagem de Dados (Data Modeling)
-4. Processamento de Métricas (Analytics & DAX)
-5. Visualização e Storytelling (Data Visualization)
+1. Coleta e Extração 
+2. Tratamento e Transformação 
+3. Modelagem de Dados 
+4. Processamento de Métricas 
+5. Visualização e Storytelling 
 
 ## Objetivos Técnicos
 * Modelagem de Dados: Estruturação de relacionamentos entre tabelas para garantia de integridade e performance analítica.
@@ -50,4 +50,5 @@ O relatório está estruturado em quatro perspectivas complementares:
 
 ---
 *Projeto desenvolvido como parte do programa de formação em Business Intelligence da Data Science Academy.*
+
 
