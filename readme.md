@@ -1,11 +1,11 @@
 # Análise de Desempenho de Campanhas de Marketing
 
-## Descrição do Projeto
+## Descrição
 Este projeto consiste no desenvolvimento de uma solução de Business Intelligence voltada para a área de Marketing. O objetivo central é a transformação de dados brutos sobre perfis de consumidores e interações publicitárias em um ecossistema de dashboards interativos, permitindo a extração de insights estratégicos sobre comportamento de consumo e eficácia de conversão.
 
 A solução abrange todo o fluxo de dados, desde o processo de ETL (Extração, Transformação e Carga) até a aplicação de técnicas de Storytelling para suporte à decisão gerencial.
 
-## Pipeline do Projeto
+## Pipeline
 1. Coleta e Extração (Data Ingestion)
 2. Tratamento e Transformação (Data Cleaning & ETL)
 3. Modelagem de Dados (Data Modeling)
@@ -50,3 +50,4 @@ O relatório está estruturado em quatro perspectivas complementares:
 
 ---
 *Projeto desenvolvido como parte do programa de formação em Business Intelligence da Data Science Academy.*
+
