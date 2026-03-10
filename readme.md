@@ -42,6 +42,7 @@ O relatório está estruturado em quatro perspectivas complementares:
 | ![Campanha](Imagens/Campanha.png) | ![PontoDeVenda](Imagens/PontoDeVenda.png) |
 
 ---
-*Projeto desenvolvido como parte do programa de formação em Business Intelligence da Data Science Academy.*
+*Projeto desenvolvido como parte do programa de formação em Power BI para Business Intelligence e Data Science da Data Science Academy.*
+
 
 
