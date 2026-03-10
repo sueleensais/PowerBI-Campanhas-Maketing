@@ -1,4 +1,4 @@
-# **Análise de Campanhas de Marketing**
+# **Análise de Desempenho de Campanhas de Marketing**
 
 # **Descrição**
 
@@ -68,3 +68,4 @@ Mesmo com dados fictícios, foi possível compreender como diferentes dimensões
 ![Visão do Comportamento](Imagens/Comportamento.png)
 ![Visão da Campanha](Imagens/Campanha.png)
 ![Visão do Ponto de Venda](Imagens/PontoDeVenda.png)
+
